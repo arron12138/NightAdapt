@@ -1,4 +1,4 @@
-<h2 align="center">OnlineStaging: A Multimodal Graph-Temporal Framework for Sleep Stage Classification</h2>
+<h2 align="center">NightAdapt: Frozen-Reference-Guided Dynamic Multimodal Adaptation for Continuous-Night Online Sleep Staging</h2>
 
 <p align="center">
   This repository contains the model computation code for a personalized online sleep staging project, covering Stage 1 feature extraction, Stage 2 graph-based temporal classification, and Stage 3 personalized online adaptation.
