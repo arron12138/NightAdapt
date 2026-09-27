@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Task-Sleep%20Staging-green" alt="Sleep staging">
   <img src="https://img.shields.io/badge/Mode-Offline%20%7C%20Online-lightgrey" alt="Offline and online">
 </p>
+
 ## Introduction
 
 OnlineStaging is a model-side implementation of a sleep stage classification framework designed for multimodal biosignals such as EEG, EOG, and EMG. The repository contains reusable model definitions and online adaptive logic.
