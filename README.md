@@ -49,7 +49,7 @@ The Stage3 online adapter maintains a stable teacher model and an adaptive stude
 ## Repository Structure
 
 ```text
-OnlineStagingGithub/
+NightAdapt/
   models/
     __init__.py
     spd.py
@@ -60,11 +60,8 @@ OnlineStagingGithub/
     stage2_temporal.py
     online_adapter.py
     losses.py
-  MODEL_CODE_MAP.md
-  MODEL_CODE_MAP_CN.md
   requirements.txt
   README.md
-  README_CN.md
 ```
 
 ## Getting Started
