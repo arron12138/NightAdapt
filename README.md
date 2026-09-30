@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 The dependency file covers the full Python workflow used by the project: model inference/training, EDF reading and preprocessing, metrics, plotting, progress bars, and spreadsheet export. The core model files themselves only require PyTorch and NumPy, but the full project also uses SciPy, scikit-learn, pandas, matplotlib, MNE, openpyxl, tqdm, and Pillow.
 
-### DataAcquire
+### Data Acquire
 
 To obtain the data, you must contact the owner directly to request download permission:
 
@@ -84,7 +84,7 @@ To obtain the data, you must contact the owner directly to request download perm
 MASS-SS3 : https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/9MYUCS;
 BP-SleepX : Ying S, Wang L, Zhang L, et al. HybridDomainSleepNet: A hybrid common-private domain deep learning network for automatic sleep staging[J]. Biomedical Signal Processing and Control, 2025, 103: 107436;
 Conti5N-SC : z1326036086@126.com (We will make the data available for download once the paper has been accepted).
-Conti3N-DC :  z1326036086@126.com (We will make the data available for download once the paper has been accepted).
+Conti3N-DC : z1326036086@126.com (We will make the data available for download once the paper has been accepted).
 ```
 
 ## Data Preparation
